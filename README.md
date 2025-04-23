@@ -1,7 +1,7 @@
 # CSTNet
 
 ###### *PyTorch implementation of TVCG paper: "Multiplane-based Cross-view Interaction  Mechanism for Robust  Light Field Angular Super-Resolution"*.
-![LFAVNet](./LFAVNet.gif)
+![CSTNet](./CSTNet.gif)
 
 #### Requirements
 
