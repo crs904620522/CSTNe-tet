@@ -12,9 +12,10 @@
 
 **Waiting** 
 
-##### Dataset: 
+### Dataset: 
 
-Light Field Dataset: We use the same dataset provided by  for training and test. Please first download light field dataset with its full-view depth information, and put them into corresponding folders in ***data/HCInew***.
+Light Field Dataset: We use the same dataset provided by Wang (https://github.com/YingqianWang/DistgASR) for training and test.  Many thanks for their work.
+
 
 **If you find our code or paper useful, please consider citing:**
 
