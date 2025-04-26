@@ -21,5 +21,3 @@ Light Field Dataset: We use the same dataset provided by Wang (https://github.co
 **If you find our code or paper useful, please consider citing:**
 
 **waiting**
-
-## We plan to make the code public within 30 days, and it will take some time to clean up the code.
